@@ -1,6 +1,6 @@
 # older-nightwatch-generated-by-yo
 
-Default code produced by Yeoman: http://yeoman.io/ and Joe Purdy's generator-nightwatchjs at https://github.com/joepurdy/generator-nightwatchjs.
+Default code produced by Yeoman: http://yeoman.io/ and Seth Mcl's generator-selenium-nightwatchjs at https://github.com/sethmcl/generator-selenium-nightwatch.
 
 Install Nightwatch from the Command Line: <i>npm install -g nightwatchjs</i>
 
